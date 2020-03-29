@@ -15,4 +15,7 @@
     <color name="tosca">#48B9AC</color>
     <color name="white">#FFFFFF</color>
 
+    <color name="tabindicator">#D2FFFC</color>
+    <color name="tabbackground">#81A4A1</color>
+
 </resources>
