@@ -21,12 +21,42 @@
             android:textSize="8pt"
             android:textStyle="bold" />
 
-
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Alamat"
+            android:textColor="@color/tosca"
+            android:textSize="8pt"
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Tempat Tanggal Lahir"
+            android:text="Jenis Kelamin"
+            android:textColor="@color/tosca"
+            android:textSize="8pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Status Perkawinan"
+            android:textColor="@color/tosca"
+            android:textSize="8pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pekerjaan"
+            android:textColor="@color/tosca"
+            android:textSize="8pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kewarganegaraan"
             android:textColor="@color/tosca"
             android:textSize="8pt"
             android:textStyle="bold" />
